@@ -1,2 +1,137 @@
-# flflflfl
+
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="s.js" data-import=""></script>
+</head>
+
+<body onload="body()">
+    <h1>Mathématiques</h1>
+    <div class="row" style="--columns:2;">
+        <div class="col" style="margin:2em;">
+            <h3 class="nocounter">Première STL spécialité maths</h3>
+            <ol type="A" class="collapsible">
+                <li>Trigonométrie
+                    <ol class="open">
+                        <li>
+                            <a
+                                href="pages/stl_premiere_spe/1/Trigo - 1 - Mesurer des angles/Trigo - 1 - Mesurer des angles.html">Mesurer
+                                des angles (cours-TD)</a>
+                        </li>
+                        <li>
+                            <a href="pages/fondamentaux/Fractions/Fractions.html">Fractions (fondamentaux)</a>
+                        </li>
+                        <li>
+                            <a href="pages/stl_premiere_spe/1/Trigo - 2 - sin et cos/Trigo - 2 - sin et cos.html">Sin et
+                                cos (cours-TD)</a>
+                        </li>
+                        <li>
+                            <a
+                                href="pages/stl_premiere_spe/1/Trigo - 3 - Fonctions sinusoïdales/Trigo - 3 - Fonctions sinusoïdales.html">Fonctions
+                                sinusoïdales (cours-TD)</a>
+                        </li>
+                    </ol>
+                </li>
+                <li>Produit scalaire
+                    <ol class="open">
+                        <li><a href="pages/stl_premiere_spe/2/Produit scalaire/Produit scalaire.html">Produit scalaire
+                                (cours-TD)</a>
+                        </li>
+                    </ol>
+        </div>
+        <div class="col" style="margin:2em;">
+            <h3 class="nocounter">Première maths spécifiques</h3>
+            <ol type="A" class="collapsible open">
+                <li>Phénomènes aléatoires
+                    <ol class="open">
+                        <li>
+                            <a
+                                href="pages/premiere_tc/1/Phénomènes aléatoires - 1 Probabilités et variables aléatoires/Phénomènes aléatoires - 1 Probabilités et variables aléatoires.html">
+                                Probabilités et variables aléatoires (cours-TD)</a>
+                        </li>
+                        <li>
+                            <a
+                                href="pages/premiere_tc/1/Phénomènes aléatoires - 2 - Probabilités conditionnelles/Phénomènes aléatoires - 2 - Probabilités conditionnelles.html">Probabilités
+                                conditionnelles (cours-TD)</a>
+                        </li>
+                        <li>
+                            <a href="pages/fondamentaux/Fractions/Fractions.html">Fractions (fondamentaux)</a>
+                        </li>
+                    </ol>
+
+                </li>
+                <li>Analyse de l'information
+                    <ol>
+                        <li>
+                            <a
+                                href="pages/premiere_tc/2/Analyse de l'information/Analyse de l'information.html">Cours-TD</a>
+                        </li>
+                        <li>
+                            <a href="pages/fondamentaux/Pourcentages/Pourcentages.html">Pourcentages (fondamentaux)</a>
+                        </li>
+                    </ol>
+                </li>
+
+                <li>Phénomènes d'évolution
+                    <ol class="">
+                        <li><a href="pages/premiere_tc/3/Phénomènes linéaires/Phénomènes linéaires.html">Phénomènes
+                                linéaires (cours-TD)</a>
+                        </li>
+                        <li>
+                            <a href="pages/premiere_tc/3/TD impôt sur le revenu/TD impôt sur le revenu.html">TD
+                                impôt sur le
+                                revenu</a>
+                        </li>
+
+                        <li><a href="pages/premiere_tc/3/Phénomènes exponentiels/Phénomènes exponentiels.html">Phénomènes
+                                exponentiels (cours-TD)</a>
+                        </li>
+                        <li><a href="pages/premiere_tc/3/Exercices/fiche_ex.pdf" download>Fiche d'exercices</a>
+                        </li>
+
+                    </ol>
+                </li>
+                <li>Variation
+                    locale et globale
+                    <ul class="">
+                        <li><a
+                                href="pages/premiere_tc/4/Variation locale et globale/Variation locale et globale.html">Cours-TD</a>
+                        </li>
+                        <li><a href="pages/premiere_tc/4/exercices/exercices.pdf" download>Fiche d'exercices</a>
+                        </li>
+                    </ul>
+                </li>
+            </ol>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col" style="margin:2em;">
+            <h3 class="nocounter">Utilitaires</h3>
+            <ul class="collapsible open">
+                <li>
+                    <a href="scripts/pyscript/pyscript.html" target="_blank">PyScript REPL</a>
+                </li>
+                <li>
+                    <a href="scripts/tabvar/tabvar.html" target="_blank">TabVar : tableaux de signe et variation</a>
+                </li>
+                <li>
+                    <a href="scripts/tables/tables.html" target="_blank">Tables : apprendre ses tables de
+                        multiplication</a>
+                </li>
+                <li>
+                    <a href="scripts/papeur/papeur.html" target="_blank">Papeur : modèles de papier à imprimer</a>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+
+</body>
+
+</html>
+
  
